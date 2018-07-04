@@ -1,1 +1,7 @@
 -- emacs config file --
+
+
+- Add in .emacs.d, init.el and the folder themes.
+
+--> .emacs.d/init.el
+    .emacs.d/themes
